@@ -2,6 +2,18 @@
 
 **Purpose:** This repository manages architecture setup and external documentation for the Sisvisa project.
 
+## Repository Setup
+
+To clone this repository and get started, execute the `setup-sisvisa-arch-repo.sh` script located in the root of this repository.
+
+```bash
+chmod +x setup-sisvisa-arch-repo.sh
+./setup-sisvisa-arch-repo.sh
+```
+
+This script will guide you through the cloning process and provide instructions for SSH key configuration.
+
+
 # Sisvisa workspace guidance
 
 - Treat `sisvisa` as a trusted read-heavy workspace for repo exploration.
