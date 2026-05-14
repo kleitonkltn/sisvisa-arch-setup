@@ -3,3 +3,10 @@ sisvisa_web/
 sisvisa-api/
 sisvisa-app/
 sisvisa-public/
+
+# Claude Code + OMC state
+.claude/
+.omc/
+
+# Misc
+.DS_Store
