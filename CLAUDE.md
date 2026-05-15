@@ -52,4 +52,4 @@ This script will guide you through the cloning process and provide instructions 
 - **Build/Run**: `flutter pub get` (after `pubspec.yaml` changes), `dart run flavorizr` (after `flavorizr.yaml` changes), `slidy` CLI (for new features).
 - **Testing**: `flutter test` from root. Test files mirror `lib/` structure. Cubit tests use `bloc_test`.
 - **Structure**: Clean Architecture (data -> domain -> presentation layers per feature). Multi-branding support.
-- **Status**: Migration project; several features are placeholders (e.g., documentos, embasamentos, atividades). Backlog for migration status in `docs/knowledge/backlog-migracao.md`.
+- **Status**: ✅ Migração Ionic→Flutter completa (todas features migradas: estabelecimentos, licenças, termos, denúncias, atividades, protocolos, perfil, embasamentos, documentos). Backlog em `docs/knowledge/backlog-migracao.md`. Push notifications via OneSignal Flutter, splash nativo, app version footer e in_app_update Android já em produção. iOS Notification Service Extension adiado.
