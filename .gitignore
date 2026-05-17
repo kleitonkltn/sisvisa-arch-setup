@@ -10,3 +10,7 @@ sisvisa-public/
 
 # Misc
 .DS_Store
+
+# Versionar skills (claude code agent rules)
+!.claude/skills/
+!.claude/skills/**
