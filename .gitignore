@@ -5,7 +5,7 @@ sisvisa-app/
 sisvisa-public/
 
 # Claude Code + OMC state
-.claude/
+.claude/*
 .omc/
 
 # Misc
